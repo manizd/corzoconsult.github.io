@@ -130,7 +130,7 @@ body.corzo-boxed .corzo-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .corzo-page-title-wrap .corzo-page-title-top-gradient{ height: 413px; } 
 .corzo-page-title-wrap .corzo-page-title-bottom-gradient{ height: 413px; } 
 .corzo-page-title-wrap .corzo-page-title-overlay{ opacity: 0; } 
-.corzo-page-title-wrap{ background-image: url(../upload/page-title-1.jpg); } 
+/* .corzo-page-title-wrap{ background-image: url(../upload/page-title-1.jpg); }  */
 body.single-product .corzo-header-background-transparent{ background-image: url(../upload/bg-num.jpg); background-position: center; background-size: cover; } 
 .corzo-not-found-wrap .corzo-not-found-background{ opacity: 0.3; } 
 .corzo-blog-title-wrap.corzo-style-custom .corzo-blog-title-content{ padding-top: 120px; } 
