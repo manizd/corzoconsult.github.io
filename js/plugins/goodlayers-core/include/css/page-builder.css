@@ -1909,6 +1909,7 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 .gdlr-core-blog-quote-format .gdlr-core-excerpt-read-more,
 .gdlr-core-blog-quote-format .gdlr-core-excerpt-read-more.gdlr-core-plain-text{ display: none; }
 .gdlr-core-blog-quote-format.gdlr-core-large .gdlr-core-blog-content{ padding: 50px 45px 40px; }
+.gdlr-core-blog-quote-format.gdlr-core-large .gdlr-core-blog-content-2{ padding: 30px 10px 30px; }
 .gdlr-core-blog-quote-format.gdlr-core-large .gdlr-core-blog-quote{ float: left; font-size: 120px; margin-top: -10px; margin-right: 35px; }
 .gdlr-core-blog-quote-format.gdlr-core-large .gdlr-core-blog-quote-content,
 .gdlr-core-blog-quote-format.gdlr-core-large .gdlr-core-blog-quote-content q,
