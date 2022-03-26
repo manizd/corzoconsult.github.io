@@ -2362,8 +2362,8 @@ ul.gdlr-core-category-background-widget li.gdlr-core-with-bg a:hover{ color: #ff
 .gdlr-core-flexslider .flex-direction-nav li a{ display: block; padding: 14px; background: #000; background: rgba(0,0,0,0.6); color: #fff;
 	border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; }
 .gdlr-core-flexslider .flex-direction-nav li a i{ font-size: 18px; width: 18px; text-align: center; display: block; }
-.gdlr-core-flexslider .flex-direction-nav .flex-nav-prev{ left: 35px; }
-.gdlr-core-flexslider .flex-direction-nav .flex-nav-next{ right: 35px; }
+.gdlr-core-flexslider .flex-direction-nav .flex-nav-prev{ display: none; }
+.gdlr-core-flexslider .flex-direction-nav .flex-nav-next{ display: none; }
 .gdlr-core-flexslider[data-nav="both"] .flex-direction-nav li{ margin-top: -45px; }
 .gdlr-core-flexslider.gdlr-core-v1[data-nav="navigation-outer"]{ position: relative; }
 .gdlr-core-flexslider.gdlr-core-v1[data-nav="navigation-outer"] .flex-direction-nav .flex-nav-prev{ left: -85px; padding-right: 40px; }
