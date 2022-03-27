@@ -144,7 +144,7 @@ ul.slides .clearfix{ height: auto; opacity: 1; clear: none; }
 
 /* fitvids */
 .gdlr-core-fluid-video-wrapper { width: 100%; position: relative; padding: 0; overflow: hidden; }
-.gdlr-core-fluid-video-wrapper iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: #000; }
+.gdlr-core-fluid-video-wrapper iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 80%; background: #000; }
 
 /* button */
 .gdlr-core-button{ font-size: 13px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.8px; 
